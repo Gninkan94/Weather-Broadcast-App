@@ -15,7 +15,7 @@ https://gninkan94.github.io/Weather-Broadcast-App/
 
 ## API Used
 
-the openWeather API https://api.openweathermap.org/data/2.5/weather?lat={?}&lon={?}&appid={API key} 
+the openWeather API 
 I did not my api kry here.
 
 ## Credit
